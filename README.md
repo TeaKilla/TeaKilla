@@ -15,9 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->4E I7O KAJFU TO I DELAU
 
-#include <iostream>
-
-int main() {
-  std::cout << "C++: Where the fun never ends... (until segmentation fault!)" << std::endl;
-  return 0;
-}
+ Where the fun never ends... 
+  
