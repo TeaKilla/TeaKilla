@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 -->4E I7O KAJFU TO I DELAU
 
 #include <iostream>
-#include <string>
 
 int main() {
-  std::string message = "Привет из C++!";
-  std::cout << message << std::endl;
+  std::cout << "C++: Where the fun never ends... (until segmentation fault!)" << std::endl;
   return 0;
 }
