@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->4E I7O KAJFU TO I DELAU
+
+#include <iostream>
+#include <string>
+
+int main() {
+  std::string message = "Привет из C++!";
+  std::cout << message << std::endl;
+  return 0;
+}
